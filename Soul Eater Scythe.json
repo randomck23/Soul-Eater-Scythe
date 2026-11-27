@@ -1,0 +1,87 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "Model",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Handle Replace",
+          "replace_ids": [
+            13753170814
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Soul-Eater-Scythe/raw/refs/heads/main/soul%20eater%20scythe%20handle.obj"
+        },
+        {
+          "name": "Blade Replace",
+          "replace_ids": [
+            13753170893
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Soul-Eater-Scythe/raw/refs/heads/main/soul%20eater%20scythe%20blade.obj"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Sounds",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Dash Replace",
+          "replace_ids": [
+            16492958314
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Soul-Eater-Scythe/raw/refs/heads/main/soul%20eater%20dash.mp3"
+        },
+        {
+          "name": "Slash Replace",
+          "replace_ids": [
+            14111617408,
+            14111617269
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Soul-Eater-Scythe/raw/refs/heads/main/soul%20eater%20slash.mp3"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Icon",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Icon Replace",
+          "replace_ids": [
+            13834995858,
+            17160800186
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Soul-Eater-Scythe/blob/main/soul%20eater%20thumbnail.png?raw=true"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Wrap (Shiny White Wrap Over Paint)",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Hide Paint Texture",
+          "replace_ids": [
+            "71391425661565:0"
+          ],
+          "mode": "id",
+          "enabled": true
+        }
+      ]
+    }
+  ]
+}
